@@ -1,7 +1,7 @@
-$app = "seo.apertalab.no-ip.org";
+$app = "dpatchms.apertalab.no-ip.org";
 $host = "apertalab.no-ip.org";
 $user = "www-data";
-$deploy_path = "/var/www/seo.apertalab.no-ip.org";
+$deploy_path = "/var/www/dpatchms.apertalab.no-ip.org";
 $drush_path = "/bin/drush";
 
 $db_host = "localhost"
