@@ -2,25 +2,20 @@
 
 env.db.driver=mysql
 env.db.host=localhost
-env.db.name=pp_dev
+env.db.name=pp_content
 env.db.user=root
-env.db.password=123
+env.db.password=sibay@123
 env.db.user.sudo=root
-env.db.user.sudo.password=123
+env.db.user.sudo.password=sibay@123
 
 env.server=nginx
 
 env.host.file=/etc/hosts
-env.host.name=pp.dev
+env.host.name=dpatchms.apertalab.no-ip.org
 env.host.ip=127.0.1.1
 env.host.vhost_dir.avaliable=/etc/nginx/sites-available
 env.host.vhost_dir.enabled=/etc/nginx/sites-enabled
 env.host.creation.use_sudo=true
-
-;env.proxy=192.168.1.2:3128
-env.proxy=
-
-env.deploy.package.profile=dev.server
 
 env.java="/usr/bin/java"
 
@@ -28,6 +23,9 @@ env.environment=development
 env.solr.start=0
 
 env.solr.server=default
+
+;env.proxy=192.168.1.2:3128
+env.proxy=
 
 env.memcache = 0
 env.memcache.tpl = default
