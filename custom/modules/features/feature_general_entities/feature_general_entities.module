@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the General entities feature.
+ */
+
+include_once 'feature_general_entities.features.inc';
