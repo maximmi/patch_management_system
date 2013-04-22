@@ -48,3 +48,6 @@ projects[token][version] = "1.4"
 
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.2"
+
+projects[entity][subdir] = "contrib"
+projects[entity][version] = "1.0"
