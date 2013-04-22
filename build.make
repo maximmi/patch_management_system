@@ -17,3 +17,34 @@ projects[solution_core][download][type] = "git"
 projects[solution_core][download][url] = "git://github.com/goruha/DrupalSolutionCore7.git"
 projects[solution_core][download][tag] = 2.1
 projects[solution_core][l10n_path] = "http://ftp.drupal.org/files/translations/7.x/drupal/drupal-7.21.%language.po"
+
+
+projects[link][subdir] = "contrib"
+projects[link][version] = "1.1"
+
+projects[entityreference][subdir] = "contrib"
+projects[entityreference][version] = "1.0"
+
+projects[features][subdir] = "contrib"
+projects[features][version] = "2.0-beta2"
+
+projects[admin_menu][subdir] = "contrib"
+projects[admin_menu][version] = "3.0-rc4"
+
+projects[views][subdir] = "contrib"
+projects[views][version] = "3.7"
+
+projects[diff][subdir] = "contrib"
+projects[diff][version] = "3.2"
+
+projects[date][subdir] = "contrib"
+projects[date][version] = "2.6"
+
+projects[auto_entitylabel][subdir] = "contrib"
+projects[auto_entitylabel][version] = "1.1"
+
+projects[token][subdir] = "contrib"
+projects[token][version] = "1.4"
+
+projects[ctools][subdir] = "contrib"
+projects[ctools][version] = "1.2"
